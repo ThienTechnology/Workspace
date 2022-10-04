@@ -1,0 +1,84 @@
+:root {
+  --primary: #3db2ff;
+  --white: #ffffff;
+  --black: #000000;
+  --light: #f8f9fa;
+  --dark: #212529;
+  --dark-blue: #0e1538;
+  --red: #ff2442;
+  --orange: #ff5200;
+  --green: #54e346;
+  --purple: #c244fb;
+  --pink: #ff577f;
+  --cyan: #0dcaf0;
+  --success: #19ce46;
+  --warning: #ffc107;
+  --danger: #ff4848;
+  --infor: #1fc9eb;
+  --disable: #cac3c3;
+
+  /* pastel */
+  --pastel1-1: #b1b2ff;
+  --pastel1-2: #aac4ff;
+  --pastel1-3: #d2daff;
+  --pastel1-4: #eef1ff;
+
+  --pastel2-1: #cdf0ea;
+  --pastel2-2: #f9f9f9;
+  --pastel2-3: #ecc5fb;
+  --pastel2-4: #faf4b7;
+
+  --pastel3-1: #b983ff;
+  --pastel3-2: #94b3fd;
+  --pastel3-3: #94daff;
+  --pastel3-4: #99feff;
+
+  --pastel4-1: #fcffa6;
+  --pastel4-2: #c1ffd7;
+  --pastel4-3: #b5deff;
+  --pastel4-4: #cab8ff;
+
+  /* retro */
+  --retro1-1: #181818;
+  --retro1-2: #8758ff;
+  --retro1-3: #5cb8e4;
+  --retro1-4: #f2f2f2;
+
+  --retro2-1: #303841;
+  --retro2-2: #00adb5;
+  --retro2-3: #eeeeee;
+  --retro2-4: #ff5722;
+
+  --retro3-1: #7900ff;
+  --retro3-2: #548cff;
+  --retro3-3: #93ffd8;
+  --retro3-4: #cfffdc;
+
+  --retro4-1: #142f43;
+  --retro4-2: #ffab4c;
+  --retro4-3: #ff5f7e;
+  --retro4-4: #b000b9;
+
+  /* neon */
+  --neon1-1: #00ffd1;
+  --neon1-2: #31c6d4;
+  --neon1-3: #ffff00;
+  --neon1-4: #ff1e1e;
+
+  --neon2-1: #e8ffff;
+  --neon2-2: #a6f6f1;
+  --neon2-3: #41aea9;
+  --neon2-4: #213e3b;
+
+  --neon3-1: #000000;
+  --neon3-2: #5800ff;
+  --neon3-3: #e900ff;
+  --neon3-4: #ffc600;
+
+  --neon4-1: #000000;
+  --neon4-2: #52057b;
+  --neon4-3: #892cdc;
+  --neon4-4: #bc6ff1;
+}
+
+/*   --neon : #; */
